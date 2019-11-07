@@ -18,7 +18,6 @@ class Solution {
                 arr_S.pop();
                 answer+=1;
             }
-            System.out.print(temp);
         }        
         return answer;
     }
